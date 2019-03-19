@@ -74,3 +74,13 @@ sqlalchemy.exc.IntegrityError: (sqlite3.IntegrityError) UNIQUE constraint failed
 [parameters: ('ivan', '', 1)]
 (Background on this error at: http://sqlalche.me/e/gkpj)
 2019-03-16 15:12:09,609 INFO: Microblog startup [in /home/nemos/Desktop/microblog/app/__init__.py:45]
+2019-03-17 20:55:41,789 INFO: Microblog startup [in /home/nemos/Desktop/microblog/app/__init__.py:45]
+2019-03-18 13:39:09,237 INFO: Microblog startup [in /home/nemos/Desktop/microblog/app/__init__.py:45]
+2019-03-19 20:22:11,364 INFO: Microblog startup [in /home/nemos/Desktop/microblog/app/__init__.py:45]
+2019-03-19 20:23:47,835 INFO: Microblog startup [in /home/nemos/Desktop/microblog/app/__init__.py:45]
+2019-03-19 20:24:41,486 INFO: Microblog startup [in /home/nemos/Desktop/microblog/app/__init__.py:45]
+2019-03-19 20:47:20,065 INFO: Microblog startup [in /home/nemos/Desktop/microblog/app/__init__.py:45]
+2019-03-19 21:17:50,240 INFO: Microblog startup [in /home/nemos/Desktop/microblog/app/__init__.py:45]
+2019-03-19 21:21:52,249 INFO: Microblog startup [in /home/nemos/Desktop/microblog/app/__init__.py:45]
+2019-03-19 21:22:23,170 INFO: Microblog startup [in /home/nemos/Desktop/microblog/app/__init__.py:45]
+2019-03-19 21:22:28,863 INFO: Microblog startup [in /home/nemos/Desktop/microblog/app/__init__.py:45]
