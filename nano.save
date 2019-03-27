@@ -1,0 +1,8 @@
+pybabel extract -F babel.cfg -k _l -o messages.pot .
+pybabel init -i messages.pot -d app/translations -l es
+pybabel compile -d app/translations
+pybabel update -i messages.pot -d app/translations
+
+flask translate init LANG to add a new language
+flask translate update to update all language repositories
+flask translate compile to compile all language repositories
